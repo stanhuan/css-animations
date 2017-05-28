@@ -31,11 +31,13 @@ button {
 	padding:1em 3em;
 	margin: 2em auto;
 	display:block;
+	transition: background .5s ease-in, transform .5s .5s ease-in;
 }
 
 button:hover {
 	background: #c61140;
 	transform: scale(1.2);
+
 }
 
 

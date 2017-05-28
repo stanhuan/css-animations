@@ -30,7 +30,11 @@
 		z-index: 200;	
 }
 
-
+@keyframes drift {
+	from{
+		transform: translateX(-255px;)
+	}
+}
 
 
 
